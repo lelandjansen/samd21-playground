@@ -1,0 +1,4 @@
+#ifndef CONFIG_CONF_BOARD_H_
+#define CONFIG_CONF_BOARD_H_
+
+#endif  // CONFIG_CONF_BOARD_H_
